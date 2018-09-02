@@ -41,6 +41,7 @@ public class HelloWorldServlet extends HttpServlet {
 		out.println("<html><body>");
 		out.println("<h2>Hello World</h2>");
 		out.println("<h2>Trying out Git</h2>");
+		out.println("<h2>Checking Git Second</h2>");
 		out.println("<hr>");
 		out.println("Time on server is : "+new java.util.Date());
 		out.println("</body></html>");
